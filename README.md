@@ -2,8 +2,8 @@
 
 # For an updated version of this Series check out [activityOverlordv2.0](https://github.com/irlnathan/activityoverlord20).
 
-### a Sails application
-This is a part of a series of screencasts which build a sails application from scratch.  You can follow the progress over at my github [sailscasts](http://irlnathan.github.io/sailscasts/) page.
+### приложение Sails
+Это часть серии скринкастов о создании sails приложения снуля.  You can follow the progress over at my github [sailscasts](http://irlnathan.github.io/sailscasts/) page.
 
 A live version of the project is available at: (http://activityoverlord.herokuapp.com/)
 
